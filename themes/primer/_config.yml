@@ -1,0 +1,33 @@
+# Header
+menu:
+	Home: /
+	About: /about/
+	#Archive: /archive/ 
+
+# Profile
+profile:
+	location: Xian, China
+	github: gyliu513
+	#stackoverflow: 
+		#title: yumemor
+		#href: http://stackoverflow.com/users/5662132/yumemor
+	#organization: 组织/公司
+
+#Widget
+sidebar: false
+navfixed: true
+
+#WidgetText
+excerpt_link: Read More
+
+#Github(请务必配置github帐号)
+github:
+  popular_repos: ['mesos','kubernetes', 'Magnum']
+  #contribute_repos: ['yumemor/1','yumemor/2']
+
+#Comments
+comments:
+	duoshuo_username: gyliu513
+
+#Source Code
+source_code: https://github.com/yumemor/yumemor.github.io
