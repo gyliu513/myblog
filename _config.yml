@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: platformer@IBM
+title: gyliu513@IBM
 subtitle:
 description:
 author: Guangya Liu
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: primer
+theme: Hacker
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
